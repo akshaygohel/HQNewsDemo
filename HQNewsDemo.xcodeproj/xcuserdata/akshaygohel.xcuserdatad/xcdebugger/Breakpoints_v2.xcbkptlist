@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D964E9DB-7D29-42E7-94D2-30DE0BDC85D2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "05C76454-7C0F-4311-849C-D5D0DF40B80D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsDemo/ReaderModule/DataLayer/HQBookmarkPersistence.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "removeBookmark(url:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "05C76454-7C0F-4311-849C-D5D0DF40B80D - da8670dda5907424"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsDemo.HQBookmarkPersistence.removeBookmark(url: Swift.String) -&gt; ()"
+                  moduleName = "NewsDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshaygohel/Documents/Projects/Husqvarna/Code/NewsDemo/NewsDemo/ReaderModule/DataLayer/HQBookmarkPersistence.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "05C76454-7C0F-4311-849C-D5D0DF40B80D - da8670dda59074c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsDemo.HQBookmarkPersistence.removeBookmark(url: Swift.String) -&gt; ()"
+                  moduleName = "NewsDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshaygohel/Documents/Projects/Husqvarna/Code/NewsDemo/NewsDemo/ReaderModule/DataLayer/HQBookmarkPersistence.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EA0BD7B4-57EB-47DF-88BC-890EB7498583"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsDemo/ReaderModule/DataLayer/HQBookmarkPersistence.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "addBookmark(url:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EA0BD7B4-57EB-47DF-88BC-890EB7498583 - e129c31ce4b78011"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsDemo.HQBookmarkPersistence.addBookmark(url: Swift.String) -&gt; ()"
+                  moduleName = "NewsDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshaygohel/Documents/Projects/Husqvarna/Code/NewsDemo/NewsDemo/ReaderModule/DataLayer/HQBookmarkPersistence.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "EA0BD7B4-57EB-47DF-88BC-890EB7498583 - e129c31ce4b78011"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsDemo.HQBookmarkPersistence.addBookmark(url: Swift.String) -&gt; ()"
+                  moduleName = "NewsDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshaygohel/Documents/Projects/Husqvarna/Code/NewsDemo/NewsDemo/ReaderModule/DataLayer/HQBookmarkPersistence.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "38631D8F-DC77-4BB2-9F42-DC59613361A3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsDemo/ReaderModule/MVVM/ViewModel/HQWebBrowserViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "getWebViewRequest()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "09CBB6BD-0A1A-4648-92E5-F767AADEA837"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsDemo/ReaderModule/MVVM/View/ViewControllers/HQWebBrowserViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "loadWebView()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "09CBB6BD-0A1A-4648-92E5-F767AADEA837 - 5c261279c21249cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsDemo.HQWebBrowserViewController.loadWebView() -&gt; ()"
+                  moduleName = "NewsDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshaygohel/Documents/Projects/Husqvarna/Code/NewsDemo/NewsDemo/ReaderModule/MVVM/View/ViewControllers/HQWebBrowserViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "416">
+               </Location>
+               <Location
+                  uuid = "09CBB6BD-0A1A-4648-92E5-F767AADEA837 - 5c261279c21249cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsDemo.HQWebBrowserViewController.loadWebView() -&gt; ()"
+                  moduleName = "NewsDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshaygohel/Documents/Projects/Husqvarna/Code/NewsDemo/NewsDemo/ReaderModule/MVVM/View/ViewControllers/HQWebBrowserViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "204">
+               </Location>
+               <Location
+                  uuid = "09CBB6BD-0A1A-4648-92E5-F767AADEA837 - 5c261279c212490b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsDemo.HQWebBrowserViewController.loadWebView() -&gt; ()"
+                  moduleName = "NewsDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshaygohel/Documents/Projects/Husqvarna/Code/NewsDemo/NewsDemo/ReaderModule/MVVM/View/ViewControllers/HQWebBrowserViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "119"
+                  endingLineNumber = "119"
+                  offsetFromSymbolStart = "204">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7B76E152-036F-4458-B82B-2EEE789D61D1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsDemo/ReaderModule/MVVM/View/Cells/HQNewsArticleTableCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "updateCellData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "838315A3-26DE-4A1C-AB23-495BB0D15776"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsDemo/ReaderModule/MVVM/View/ViewControllers/HQHomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "133"
+            endingLineNumber = "133"
+            landmarkName = "setupViewModel()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
